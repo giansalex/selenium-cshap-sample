@@ -6,7 +6,7 @@ using OpenQA.Selenium.Edge;
 namespace Selenium.Test
 {
     [TestFixture]
-    public class ChromeTests
+    public class BrowserTests
     {
         private static IWebDriver _chrome;
         private static IWebDriver _edge;
