@@ -29,7 +29,7 @@ namespace Selenium.Test
         [Test]
         public void GoToIndex()
         {
-            _chrome.Navigate().GoToUrl("https://google.com.pe/");
+            _chrome.Navigate().GoToUrl("https://google.com/");
             _edge.Navigate().GoToUrl("https://www.microsoft.com/");
             _firefox.Navigate().GoToUrl("http://www.mozilla.org/");
         }
