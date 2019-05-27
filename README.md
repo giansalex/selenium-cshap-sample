@@ -4,8 +4,8 @@ Tests using Chrome, Edge and Firefox.
 
 
 ### Download
-- [Chrome Driver 2.36](http://chromedriver.storage.googleapis.com/index.html?path=2.36/)
+- [Chrome Driver](http://chromedriver.storage.googleapis.com/index.html/)
 - [Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-- [Firefox Driver]
+- [Firefox Driver](https://github.com/mozilla/geckodriver/releases/)
 
 Then, stored in `/drivers` directory or configure full path in setUp method.
